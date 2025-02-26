@@ -1,4 +1,4 @@
-module repository-mongo
+module github.com/sploitfaze/repository-mongo
 
 go 1.23
 
